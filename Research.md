@@ -9,39 +9,39 @@ To build a map with a coherent sense of place, I conducted research across four 
 I visited Venice twice. The photos below are from those trips and form the primary visual reference for the map.
 
 **Night canal with bridge in distance**
-![x](https://drive.google.com/file/d/10R5ttDqaSF57egHY4-TSWoq76Lbocb-U/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/10R5ttDqaSF57egHY4-TSWoq76Lbocb-U/view?usp=drive_link)
 The canal surface reads as pure black at night. The bridge in the far distance is lit by a single lamp. This is the core spatial arrangement of the map: water below, bridge ahead, buildings pressing in from both sides. The arch of the water gate on the left: half-submerged, rounded, old: is a direct reference for the androne entrances.
 
 **Grand Canal, overcast**
-![x](https://drive.google.com/file/d/1LsIu5Mm2jVtmRE92VTRH6YpWUJLKPQQr/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1LsIu5Mm2jVtmRE92VTRH6YpWUJLKPQQr/view?usp=drive_link)
 The scale here is the reference. The canal is wide enough that the far bank feels genuinely remote. This is the isolation shot. Birds, grey sky, choppy water, nobody around. The Rialto is visible in the background. This image informs the open canal vista moments in the map: spaces where the player can see a long way but has no way across.
 
 **Looking up at palazzo facade with ironwork lamp**
-![x](https://drive.google.com/file/d/1_hzH9pvFVaY9lrGM4z5NVFI_XxdW6fCK/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1_hzH9pvFVaY9lrGM4z5NVFI_XxdW6fCK/view?usp=drive_link)
 The ornate ironwork bracket silhouetted against the sky. Pigeons on it. This is the detail language of the map: decorative metalwork on blank plaster walls, arched ground-floor windows with iron grating, the yellow ochre plaster surface streaked with damp. Quake can't reproduce this exactly, but the proportions: tall building, narrow strip of sky: translate directly into corridor-scale geometry.
 
 **Campo with campanile**
-![x](https://drive.google.com/file/d/1Kg9R0DgJayiWo-tftePii1E3S3i_bMep/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1Kg9R0DgJayiWo-tftePii1E3S3i_bMep/view?usp=drive_link)
 An open square. Low grey sky, a leaning bell tower behind, a handful of people crossing. The campo is the map's breathing room: a larger open space between tight calle sections. The campanile reads as a vertical landmark visible from multiple approach angles, useful for player orientation.
 
 **Church facade**
-![x](https://drive.google.com/file/d/15NAzte8P9z7ahdok-sla_JfTTqT87AD_/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/15NAzte8P9z7ahdok-sla_JfTTqT87AD_/view?usp=drive_link)
 Baroque marble statuary, columns, carved relief panels at the base. This is the map's most elaborate surface. In Quake terms this becomes the key landmark building: the one the player can see from the canal and works toward. The statue niches are potential secret locations.
 
 **Narrow calle, single figure**
-![Night canal with bridge in distance](https://drive.google.com/file/d/10R5ttDqaSF57egHY4-TSWoq76Lbocb-U/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/10R5ttDqaSF57egHY4-TSWoq76Lbocb-U/view?usp=drive_link)
 One person walking away, buildings pressing to within arm's reach on both sides, an arch overhead partway down. This is the calle template. The arch creates a natural choke point. The figure gives scale: these passages are barely wider than a person. In the map, this geometry forces the player to commit to a direction.
 
 **Street shrine, Madonna relief (IMG_0932)**
-![x](https://drive.google.com/file/d/1CidHrVmsVXZCCZMYwuhyP92Az51cWGwB/view?usp=sharing)
+[![x](image_url)](https://drive.google.com/file/d/1CidHrVmsVXZCCZMYwuhyP92Az51cWGwB/view?usp=sharing)
 A carved marble relief set into a brick wall at eye level, fresh flowers in a vase beside it. These shrines appear throughout Venice on exterior walls. In the map they appear at regular intervals: small stone recesses with carved figures. They function as environmental storytelling markers and, in at least one case, as the location of a secret.
 
 **Wet calle with bridge arch and steps**
-![x](https://drive.google.com/file/d/1XpLErITfxcYsDwk3BAk1RuT27cr_Z7Si/view?usp=sharing)
+[![x](image_url)](https://drive.google.com/file/d/1XpLErITfxcYsDwk3BAk1RuT27cr_Z7Si/view?usp=sharing)
 Rain-wet flagstone, yellow plaster, a bridge arch visible at the end with steps rising to it. This is the map's standard connector geometry: calle leads to bridge, bridge rises over a canal, steps up and over. The wet surface reads as a texture detail: the map uses a darker flagstone variant for outdoor ground surfaces.
 
 **Waterfront in rain, figure with umbrella**
-![x](https://drive.google.com/file/d/1r1tjCfUOoDzGt11pZS1MiuqMuXz5UJIA/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1r1tjCfUOoDzGt11pZS1MiuqMuXz5UJIA/view?usp=drive_link)
 Wide open water, a lone figure on a stone fondamenta, wooden pilings, the far shore distant and grey. This is the isolation image. The figure is completely alone on an exposed flat surface with water on three sides and nothing close. The map uses this geometry for one exterior section: a fondamenta running along the canal edge: where the player is fully exposed and the scale of the water is visible.
 
 ---
@@ -49,11 +49,11 @@ Wide open water, a lone figure on a stone fondamenta, wooden pilings, the far sh
 ## Sottoporteghi Reference
 
 **Sottoporteghi exterior entrance**
-![x](https://drive.google.com/file/d/1ffxdRDcsVMCyF6CReuftrml0cEEP2YM_/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1ffxdRDcsVMCyF6CReuftrml0cEEP2YM_/view?usp=drive_link)
 The entrance to a sottoportego from the street: a low arch cut into the base of a building, flagstone floor, darkness beyond. This is a direct map reference. The sottoporteghi are the map's high-tension connectors: the player enters knowing there is no room to maneuver inside.
 
 **Flooded arcade, flooded courtyard with well, dark sottoportego**
-![x](https://drive.google.com/file/d/1Z0x5IwHwKOfUeVJ2ch5LC3mu9XYtF7v7/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1Z0x5IwHwKOfUeVJ2ch5LC3mu9XYtF7v7/view?usp=drive_link)
 Three images showing acqua alta flooding and a dark covered passage. The flooded arcade on the left: water across the floor, columns, the space still navigable: informs the map's lower-level flooded areas. The central image shows a stone well in a flooded courtyard, an arch beyond it opening onto more water. This is used directly: the map has a courtyard with a central wellhead, partially flooded, accessible through an arch. The rightmost image is the pure sottoportego: dark, long, stone ceiling, flagstone, a faint light at the far end.
 
 ---
@@ -63,38 +63,38 @@ Three images showing acqua alta flooding and a dark covered passage. The flooded
 These screenshots are from games with Venice-adjacent or canal-city environments, used to understand how this spatial language translates into game geometry.
 
 **Bloodborne: Nightmare of Mensis fog exterior**
-![x](https://drive.google.com/file/d/1Seod6HtN76GXeHUtUW2rrubwLb96Jyh0/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1Seod6HtN76GXeHUtUW2rrubwLb96Jyh0/view?usp=drive_link)
 A misty exterior with layered stone architecture, iron railings, and a figure in the distance. The fog and atmospheric depth are a direct reference for the map's sky and ambient mood. Quake's sky texture and fog settings can approximate this.
 
 **Bloodborne: Canal bridge encounter**
-![x](https://drive.google.com/file/d/1BKCO-mn9pzC5rTj3fCdD6Lhb9-89BKiU/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1BKCO-mn9pzC5rTj3fCdD6Lhb9-89BKiU/view?usp=drive_link)
 A player character on a narrow bridge over a canal, an enemy ahead on the far side. Lanterns on posts. This is close to the map's main bridge encounter geometry: player crosses, enemy holds the far end. The bridge parapet height and the canal drop below are both referenced here.
 
 **Bloodborne: Flooded interior, arch ahead**
-![x](https://drive.google.com/file/d/1tpOwwiMI-T7F5loH42zQz1bSeHPOXyo7/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1tpOwwiMI-T7F5loH42zQz1bSeHPOXyo7/view?usp=drive_link)
 A wide flooded room, stone arch leading forward, the floor submerged. This confirms that flooded interior spaces work as navigable game environments. The arch frames the exit and functions as a visibility gate.
 
 **Resident Evil 4 Remake: Gothic vaulted corridor**
-![x](https://drive.google.com/file/d/1l9FgiqSUTyQ_VC4vS6baORbitgqmhuTv/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1l9FgiqSUTyQ_VC4vS6baORbitgqmhuTv/view?usp=drive_link)
 A third-person view looking into a long vaulted corridor: pointed Gothic arches receding into darkness, a single lantern hanging at the far end, a god-ray cutting through the gloom. The floor is a dark stone tile. This is the reference for the Palazzo del Consiglio's interior hallways, specifically the proportions of the arches, the relationship between lantern placement and visibility depth, and the way a single light source at the end of a corridor functions as a navigation cue. The player reads the light as the objective before they can see what is in the space.
 
 **Resident Evil Village: Dark barrel tunnel, enemy ahead**
-![x](https://drive.google.com/file/d/1f0N2bJNirBtj7Zy7kysvw9D8bisqCY5R/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1f0N2bJNirBtj7Zy7kysvw9D8bisqCY5R/view?usp=drive_link)
 First-person view into a low barrel-vaulted tunnel, rough stone walls, barrels stacked on the right, a figure visible in the darkness ahead. The tunnel is barely wider than the player. This is the primary in-game reference for the Sottoportego dell'Acqua. The key design element is the enemy placement: the figure is visible at the far end before combat begins, giving the player just enough time to register the threat and feel dread, but not enough room to avoid engagement. The rough stone texture and the round vault are direct references for the sottoportego ceiling geometry.
 
 **Resident Evil Village: Statue room with blood pool**
-![x](https://drive.google.com/file/d/1iCynnJQbUVz6If7T5HLKIVX8VX4sfxnl/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1iCynnJQbUVz6If7T5HLKIVX8VX4sfxnl/view?usp=drive_link)
 First-person view into a circular ornate room: marble statues on pedestals, gilded walls, columns, a portrait above a fireplace, and a sunken circular pool filled with dark red liquid at the centre. This informs the Flooded Crypt's inner chamber. The pool-as-obstacle geometry, a hazard in the centre of the room that forces the player to fight around its perimeter, is directly applicable. The statues as mid-room cover objects, and the way the room reads as formally grand but fundamentally wrong, are both referenced in how the sealed chamber is designed.
 
 **Bloodborne: Bridge with Rialto-like arch**
-![x](https://drive.google.com/file/d/1es88qmJ59QPxOprHozQwuoqNCO-uZE1v/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1es88qmJ59QPxOprHozQwuoqNCO-uZE1v/view?usp=drive_link)
 A stone bridge with arched openings, balustrades, statuary on the approach, purple storm sky. The bridge architecture is a direct reference to the Rialto, the covered central arch, the stepped approach, the decorative stonework on the parapets. This is the reference for the map's finale bridge, the large crossing that leads to the church entrance and the campo. The balustrade geometry, the arch proportions, and the elevated vantage point above the canal are all used. The storm sky also informs the map's skybox tone — not clear, not simply overcast, but actively threatening.![Night canal with bridge in distance](https://drive.google.com/file/d/10R5ttDqaSF57egHY4-TSWoq76Lbocb-U/view?usp=drive_link)
 
 ---
 
 ## Key Reference: Narrow Calle with Arch
 
-![x](https://drive.google.com/file/d/1CidHrVmsVXZCCZMYwuhyP92Az51cWGwB/view?usp=drive_link)
+[![x](image_url)](https://drive.google.com/file/d/1CidHrVmsVXZCCZMYwuhyP92Az51cWGwB/view?usp=drive_link)
 
 This image is the most important single reference for the map's core spatial unit.
 
