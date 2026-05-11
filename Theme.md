@@ -2,8 +2,6 @@
 
 ## Step One: Finding a Theme
 
-Every strong Quake map needs a clear sense of place. A theme acts as a filter for every decision: room shape, lighting, monster placement, pacing. Without one, a map becomes a collection of spaces instead of a world.
-
 In 2025, I was lucky enough to visit Venice, Italy twice: for a day trip in January & for an entire week in July. Summertime in Venice is a hot, humid madhouse, full of tourists dragging massive luggage bags up and down the many footbridges and cobblestone walkways.
 
 But during the rainy winter months, Venice is a dreamlike, otherworldly experience: its narrow alleys (some barely wide enough for two people) & large piazzas are empty & silent, save for the constant lapping of water in the canals, the occasional ringing of church bells, and the sound of your own footsteps on the cobblestone bouncing off the surrounding buildings. It's a city full of covered "sotoportego" (covered passageways, sometimes dark and narrow, which connect different parts of the city) that tunnel through building bases, canals winding through the island in place of streets, and hidden courtyards that can only be glimpsed through locked, wrought-iron gates. You turn a corner and find yourself on a dead-end bridge over black water with no idea where the open piazza went.
